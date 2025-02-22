@@ -1,5 +1,5 @@
 streamlit
 opencv-python
-numpy
-cryptography
-pillow
+numpy==1.26.4
+cryptography==44.0.1
+pillow==10.2.0
