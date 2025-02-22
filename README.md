@@ -74,6 +74,8 @@ streamlit run app.py
 
 ## 🖥️ Demo Screenshot  
 ![screencapture-localhost-8501-2025-02-22-10_17_00](https://github.com/user-attachments/assets/b35fd4ea-54fa-4438-b50f-9b76b5b0b07e)
+**🔹 For demo purposes, we have provided an encoded image (encoded_image.png) in the repository. You can try decoding it using the password:** `123456789` 🔓🖼️  
+
 
 
 ---
