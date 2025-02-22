@@ -1,5 +1,5 @@
 import streamlit as st  # For web interface
-import cv2  # OpenCV for image processing
+#import cv2  # OpenCV for image processing
 import numpy as np  # Handling image data
 from cryptography.fernet import Fernet  # For encryption/decryption
 from PIL import Image  # Handling images in Streamlit
