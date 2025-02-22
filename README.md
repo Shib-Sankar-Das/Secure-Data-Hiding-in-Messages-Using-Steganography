@@ -36,13 +36,13 @@ python --version
 ### 🔹 Install Required Libraries  
 Use the following command to install dependencies:  
 ```bash
-pip install streamlit opencv-python numpy cryptography pillow
+pip install -r requirements.txt
 ```
 
 ### 🔹 Run the Application  
 To start the Streamlit app, navigate to the project folder and run:  
 ```bash
-streamlit run app.py
+streamlit run Stegno.py
 ```
 
 ---
