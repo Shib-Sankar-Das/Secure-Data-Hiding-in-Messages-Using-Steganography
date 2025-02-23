@@ -105,6 +105,7 @@ def decrypt_message(encrypted_data, password):
 
 
 # Streamlit Sidebar
+st.set_page_config(page_title="LSB Steganography", page_icon="🔐", layout="centered")
 st.sidebar.title("LSB-Based Steganography")
 app_mode = st.sidebar.radio("Select Mode", ["HOME", "ENCODE MESSAGE", "DECODE MESSAGE"])
 
